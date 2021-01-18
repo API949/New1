@@ -9,7 +9,11 @@ public static void main(String[] args)
 System.out.println("I am from a new branch");
 
 	System.out.println("I am from Apisero1");
+<<<<<<< HEAD
 
+=======
+System.out.println("I am from Apisero1 New");
+>>>>>>> apisero1
 }
 
 
